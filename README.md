@@ -1,2 +1,2 @@
-# treasury_yield_app
-ModernFI Treasury Yield App
+# Treasury Yield Application
+ModernFI Treasury Yield App Fullstack App
