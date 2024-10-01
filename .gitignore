@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Django specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+media/
+staticfiles/
+
+# Ignore local environment settings
+.env
+.env.local
+.env.production
+.env.test
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
