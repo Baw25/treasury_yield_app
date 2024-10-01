@@ -113,3 +113,9 @@ The backend exposes the following API endpoints:
     python scrape_treasury_yields.py
     ```   
     Check if double has been populated properly in the treasury_app_treasuryyields table.
+
+
+## Running Tests (from manage.py folder)
+    ```bash
+    python manage.py test order
+    ```  
