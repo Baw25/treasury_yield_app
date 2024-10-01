@@ -2,7 +2,8 @@
 
 ModernFI Treasury Yield App Fullstack App
 
-## Example
+## Demo
+[Watch the demo](https://youtu.be/KedZMo6uy8Y)
 
 
 ## Features
